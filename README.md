@@ -1,3 +1,4 @@
+Author/Owner: narsss1234
 # particle41-interview
 Partciel41 interview solution
 
